@@ -1,1 +1,137 @@
-
+{
+ "streams": {
+  "0fb1766c": {
+   "t": "Al Nassr FC Riyadh vs NEOM SC",
+   "l": "English",
+   "h1": "https://footballlive64655.blogspot.com/?url=https://dai-fancode.pages.dev/mumbai/4250217_english_hls_90a5e6e7cf68957_1ta-di_h264/index.m3u8",
+   "h2": "https://kpores.ru/embed/FOX-SOCCER-PLUS-US"
+  },
+  "36280569": {
+   "t": "Al Nassr FC Riyadh vs NEOM SC",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4789450&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://kpores.ru/embed/FOX-SOCCER-PLUS-US"
+  },
+  "cd6edc9c": {
+   "t": "Al Nassr FC Riyadh vs NEOM SC",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/87547578_tsc.m3u8",
+   "h2": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4789450&key=9f39972b67d6ce22189507d008acwc26"
+  },
+  "1baf7164": {
+   "t": "Al Nassr FC Riyadh vs NEOM SC",
+   "l": "Chinese",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/87547578_tsc.m3u8",
+   "h2": ""
+  },
+  "5f986288": {
+   "t": "Liverpool vs Villarreal",
+   "l": "English",
+   "h1": "https://event.kpores.ru/embed/ARENA-SPORT-3-CR",
+   "h2": "https://event.kpores.ru/embed/UCL-3"
+  },
+  "079073bd": {
+   "t": "Liverpool vs Villarreal",
+   "l": "Prime HD",
+   "h1": "https://event.kpores.ru/embed/UCL-PRIME",
+   "h2": "https://event.kpores.ru/embed/UCL-3"
+  },
+  "15f300b5": {
+   "t": "Liverpool vs Villarreal",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/02456966_tsc.m3u8",
+   "h2": "https://event.kpores.ru/embed/ARENA-SPORT-3-CR"
+  },
+  "63fb6f00": {
+   "t": "Liverpool vs Villarreal",
+   "l": "Chinese",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792522003-0-0-b698f2ea41cbe09f5d0e0fa116d41d1c",
+   "h2": ""
+  },
+  "134a1d05": {
+   "t": "Liverpool vs Villarreal",
+   "l": "Arabic",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792522003-0-0-b698f2ea41cbe09f5d0e0fa116d41d1c",
+   "h2": ""
+  },
+  "fa6a0346": {
+   "t": "Stuttgart vs Atletico Madrid",
+   "l": "English",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828460&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": ""
+  },
+  "eafc8c19": {
+   "t": "Stuttgart vs Atletico Madrid",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828460&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": ""
+  },
+  "53f05edf": {
+   "t": "Stuttgart vs Atletico Madrid",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/75915087_tsc.m3u8",
+   "h2": ""
+  },
+  "bd549da8": {
+   "t": "PSG vs FC Barcelona",
+   "l": "English",
+   "h1": "https://90live.live/tnt2.html",
+   "h2": "https://kpores.ru/embed/TNT-SPORTS-2-UK"
+  },
+  "5838f7ff": {
+   "t": "PSG vs FC Barcelona",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828461&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://a3.pandab-hd.com/albaplayer/bein-1/"
+  },
+  "5a9fb64e": {
+   "t": "PSG vs FC Barcelona",
+   "l": "Tnt HD",
+   "h1": "https://kpores.ru/embed/TNT-SPORTS-2-UK",
+   "h2": "https://event.kpores.ru/embed/UCL-4"
+  },
+  "ee69f886": {
+   "t": "PSG vs FC Barcelona",
+   "l": "Chinese",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.meung.app/live/08552895.m3u8",
+   "h2": ""
+  },
+  "de668100": {
+   "t": "PSG vs FC Barcelona",
+   "l": "Arabic 2",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828461&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": ""
+  },
+  "3f3e4bc1": {
+   "t": "Manchester City vs AEK Athens",
+   "l": "English",
+   "h1": "https://90live.live/tnt1.html",
+   "h2": "https://kpores.ru/embed/TNT-SPORTS-1-UK"
+  },
+  "22007565": {
+   "t": "Manchester City vs AEK Athens",
+   "l": "Arabic",
+   "h1": "https://a3.pandab-hd.com/albaplayer/bein-3/",
+   "h2": "https://event.kpores.ru/embed/UCL-5"
+  },
+  "2e90b396": {
+   "t": "Manchester City vs AEK Athens",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/07428422_tsc.m3u8",
+   "h2": "https://event.kpores.ru/embed/UCL-5"
+  },
+  "2c5b2f73": {
+   "t": "Manchester City vs AEK Athens",
+   "l": "Arabic HD",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828463&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": ""
+  },
+  "fdc68550": {
+   "t": "Manchester City vs AEK Athens",
+   "l": "TNT 1 HD",
+   "h1": "https://kpores.ru/embed/TNT-SPORTS-1-UK",
+   "h2": ""
+  }
+ },
+ "updated": "2026-10-20T19:25:25+00:00"
+}
