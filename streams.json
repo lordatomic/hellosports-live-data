@@ -1,35 +1,5 @@
 {
  "streams": {
-  "bd549da8": {
-   "t": "PSG vs FC Barcelona",
-   "l": "English",
-   "h1": "https://90live.live/tnt2.html",
-   "h2": "https://kpores.ru/embed/TNT-SPORTS-2-UK"
-  },
-  "5838f7ff": {
-   "t": "PSG vs FC Barcelona",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828461&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://a3.pandab-hd.com/albaplayer/bein-1/"
-  },
-  "5a9fb64e": {
-   "t": "PSG vs FC Barcelona",
-   "l": "Tnt HD",
-   "h1": "https://kpores.ru/embed/TNT-SPORTS-2-UK",
-   "h2": "https://event.kpores.ru/embed/UCL-4"
-  },
-  "ee69f886": {
-   "t": "PSG vs FC Barcelona",
-   "l": "Chinese",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.meung.app/live/08552895.m3u8",
-   "h2": ""
-  },
-  "de668100": {
-   "t": "PSG vs FC Barcelona",
-   "l": "Arabic 2",
-   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828461&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
   "56a57816": {
    "t": "Napoli vs Bodo Glimt",
    "l": "English",
@@ -67,5 +37,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-21T02:34:25+00:00"
+ "updated": "2026-10-21T02:34:57+00:00"
 }
