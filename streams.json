@@ -1,35 +1,5 @@
 {
  "streams": {
-  "5f986288": {
-   "t": "Liverpool vs Villarreal",
-   "l": "English",
-   "h1": "https://event.kpores.ru/embed/ARENA-SPORT-3-CR",
-   "h2": "https://event.kpores.ru/embed/UCL-3"
-  },
-  "079073bd": {
-   "t": "Liverpool vs Villarreal",
-   "l": "Prime HD",
-   "h1": "https://event.kpores.ru/embed/UCL-PRIME",
-   "h2": "https://event.kpores.ru/embed/UCL-3"
-  },
-  "15f300b5": {
-   "t": "Liverpool vs Villarreal",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/02456966_tsc.m3u8",
-   "h2": "https://event.kpores.ru/embed/ARENA-SPORT-3-CR"
-  },
-  "63fb6f00": {
-   "t": "Liverpool vs Villarreal",
-   "l": "Chinese",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792522003-0-0-b698f2ea41cbe09f5d0e0fa116d41d1c",
-   "h2": ""
-  },
-  "134a1d05": {
-   "t": "Liverpool vs Villarreal",
-   "l": "Arabic",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001792522003-0-0-b698f2ea41cbe09f5d0e0fa116d41d1c",
-   "h2": ""
-  },
   "fa6a0346": {
    "t": "Stuttgart vs Atletico Madrid",
    "l": "English",
@@ -115,5 +85,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-21T01:33:51+00:00"
+ "updated": "2026-10-21T02:33:50+00:00"
 }
