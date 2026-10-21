@@ -1,5 +1,35 @@
 {
  "streams": {
+  "3cb2874d": {
+   "t": "Real Madrid vs RB Leipzig",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828451&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792607426-0-0-1ef440fead5145594f547d03e9a081e2"
+  },
+  "13ec5efa": {
+   "t": "Real Madrid vs RB Leipzig",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792607426-0-0-1ef440fead5145594f547d03e9a081e2",
+   "h2": "https://a3.pandab-hd.com/albaplayer/bein-2/"
+  },
+  "99425c7d": {
+   "t": "Real Madrid vs RB Leipzig",
+   "l": "TNT4 HD",
+   "h1": "https://kpores.ru/embed/TNT-SPORTS-4-UK",
+   "h2": "https://kpores.ru/embed/TNT-SPORTS-3-UK"
+  },
+  "b6ffa945": {
+   "t": "Real Madrid vs RB Leipzig",
+   "l": "Arabic 2",
+   "h1": "https://a3.pandab-hd.com/albaplayer/bein-2/",
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792607426-0-0-1ef440fead5145594f547d03e9a081e2"
+  },
+  "4c118813": {
+   "t": "Real Madrid vs RB Leipzig",
+   "l": "English",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/07428422_tsc.m3u8",
+   "h2": ""
+  },
   "ef4ca5c8": {
    "t": "Como vs Manchester United",
    "l": "English",
@@ -31,5 +61,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-21T16:35:51+00:00"
+ "updated": "2026-10-21T18:47:43+00:00"
 }
