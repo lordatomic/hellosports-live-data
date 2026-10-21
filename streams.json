@@ -1,29 +1,5 @@
 {
  "streams": {
-  "0fb1766c": {
-   "t": "Al Nassr FC Riyadh vs NEOM SC",
-   "l": "English",
-   "h1": "https://footballlive64655.blogspot.com/?url=https://dai-fancode.pages.dev/mumbai/4250217_english_hls_90a5e6e7cf68957_1ta-di_h264/index.m3u8",
-   "h2": "https://kpores.ru/embed/FOX-SOCCER-PLUS-US"
-  },
-  "36280569": {
-   "t": "Al Nassr FC Riyadh vs NEOM SC",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4789450&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://kpores.ru/embed/FOX-SOCCER-PLUS-US"
-  },
-  "cd6edc9c": {
-   "t": "Al Nassr FC Riyadh vs NEOM SC",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/87547578_tsc.m3u8",
-   "h2": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4789450&key=9f39972b67d6ce22189507d008acwc26"
-  },
-  "1baf7164": {
-   "t": "Al Nassr FC Riyadh vs NEOM SC",
-   "l": "Chinese",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/87547578_tsc.m3u8",
-   "h2": ""
-  },
   "5f986288": {
    "t": "Liverpool vs Villarreal",
    "l": "English",
@@ -139,5 +115,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-20T19:49:17+00:00"
+ "updated": "2026-10-21T01:33:51+00:00"
 }
