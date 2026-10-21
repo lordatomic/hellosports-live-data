@@ -1,23 +1,5 @@
 {
  "streams": {
-  "fa6a0346": {
-   "t": "Stuttgart vs Atletico Madrid",
-   "l": "English",
-   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828460&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "eafc8c19": {
-   "t": "Stuttgart vs Atletico Madrid",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828460&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "53f05edf": {
-   "t": "Stuttgart vs Atletico Madrid",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/75915087_tsc.m3u8",
-   "h2": ""
-  },
   "bd549da8": {
    "t": "PSG vs FC Barcelona",
    "l": "English",
@@ -85,5 +67,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-21T02:33:50+00:00"
+ "updated": "2026-10-21T02:34:25+00:00"
 }
