@@ -1,5 +1,41 @@
 {
  "streams": {
+  "c520db46": {
+   "t": "Bayern Munich vs Arsenal",
+   "l": "English",
+   "h1": "https://lordatomic.github.io/uefa/Tnt12026.html",
+   "h2": "https://kpores.ru/embed/TNT-SPORTS-1-UK"
+  },
+  "6ce04280": {
+   "t": "Bayern Munich vs Arsenal",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828450&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://a3.pandab-hd.com/albaplayer/bein-1/"
+  },
+  "7111584b": {
+   "t": "Bayern Munich vs Arsenal",
+   "l": "Arabic 2",
+   "h1": "https://a3.pandab-hd.com/albaplayer/bein-1/",
+   "h2": "https://912acsss8af382.yasirtv.com/playerv5.php?match=4828450&key=9f39972b67d6ce22189507d008acwc26"
+  },
+  "13db58e1": {
+   "t": "Bayern Munich vs Arsenal",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/08552895_tsc.m3u8",
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792608891-0-0-31b20b90d3bad781eeaeffb508d55436"
+  },
+  "2d037358": {
+   "t": "Bayern Munich vs Arsenal",
+   "l": "Chinese",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792608891-0-0-31b20b90d3bad781eeaeffb508d55436",
+   "h2": "https://kpores.ru/embed/TNT-SPORTS-1-UK"
+  },
+  "f3490d5e": {
+   "t": "Bayern Munich vs Arsenal",
+   "l": "TNT 1 HD https://kpores.ru/embed/TNT-SPORTS-1-UK",
+   "h1": "https://kpores.ru/embed/TNT-SPORTS-1-UK",
+   "h2": ""
+  },
   "3cb2874d": {
    "t": "Real Madrid vs RB Leipzig",
    "l": "Arabic",
@@ -61,5 +97,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-21T18:47:43+00:00"
+ "updated": "2026-10-21T18:56:23+00:00"
 }
