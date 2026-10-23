@@ -1,29 +1,5 @@
 {
  "streams": {
-  "c536ca13": {
-   "t": "Al Faysaly vs Al Nassr FC Riyadh",
-   "l": "English",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4789441&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792761940-0-0-6df11597c12b7e28396234c884451490"
-  },
-  "808c1ef5": {
-   "t": "Al Faysaly vs Al Nassr FC Riyadh",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001792761940-0-0-6df11597c12b7e28396234c884451490",
-   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/33982309_tsc.m3u8"
-  },
-  "155ea52a": {
-   "t": "Al Faysaly vs Al Nassr FC Riyadh",
-   "l": "Chinese",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/33982309_tsc.m3u8",
-   "h2": ""
-  },
-  "193c7362": {
-   "t": "Al Faysaly vs Al Nassr FC Riyadh",
-   "l": "English 2",
-   "h1": "https://kpores.ru/embed/FOX-SPORTS-2-US",
-   "h2": ""
-  },
   "b989240b": {
    "t": "Thiruvananthapuram Kombans FC vs Thrissur Magic FC",
    "l": "English",
@@ -31,5 +7,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-23T19:03:50+00:00"
+ "updated": "2026-10-23T21:03:50+00:00"
 }
