@@ -1,5 +1,29 @@
 {
  "streams": {
+  "24cbd892": {
+   "t": "Chelsea vs Tottenham",
+   "l": "English",
+   "h1": "https://kpores.ru/embed/SKY-SPORT-8-NZ",
+   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792858538-0-0-c1e853763f6e4523df8a8e29e0d9d50c"
+  },
+  "1acef090": {
+   "t": "Chelsea vs Tottenham",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001792858538-0-0-c1e853763f6e4523df8a8e29e0d9d50c",
+   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.yefpwmc.app/live/08552895_tsc.m3u8"
+  },
+  "df7fd710": {
+   "t": "Chelsea vs Tottenham",
+   "l": "Arabic",
+   "h1": "https://a4.pandab-hd.com/albaplayer/bein-1/",
+   "h2": ""
+  },
+  "640a7ea4": {
+   "t": "Chelsea vs Tottenham",
+   "l": "Spanish 2",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.yefpwmc.app/live/08552895_tsc.m3u8",
+   "h2": ""
+  },
   "cf4cad7e": {
    "t": "Aston Villa vs Manchester City",
    "l": "English",
@@ -61,5 +85,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-24T13:59:13+00:00"
+ "updated": "2026-10-24T16:19:46+00:00"
 }
