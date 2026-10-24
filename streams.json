@@ -1,5 +1,29 @@
 {
  "streams": {
+  "cd1681d3": {
+   "t": "New York Red Bulls vs Inter Miami",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.yefpwmc.app/live/75748097_tsc.m3u8",
+   "h2": "https://forprivateuse.sbs/embedextra/tv/31.php"
+  },
+  "e75623fc": {
+   "t": "New York Red Bulls vs Inter Miami",
+   "l": "English",
+   "h1": "https://trend48.st/event/m-red-bull-new-york-vs-inter-miami-cf-1024?stream=1",
+   "h2": "https://forprivateuse.sbs/embedextra/tv/31.php"
+  },
+  "d5268578": {
+   "t": "New York Red Bulls vs Inter Miami",
+   "l": "English 2",
+   "h1": "https://forprivateuse.sbs/embedextra/tv/31.php",
+   "h2": ""
+  },
+  "1676ebb4": {
+   "t": "New York Red Bulls vs Inter Miami",
+   "l": "Chinese",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001792876879-0-0-9f9d384d99bcfca68a6d91194aeb3e15",
+   "h2": ""
+  },
   "24cbd892": {
    "t": "Chelsea vs Tottenham",
    "l": "English",
@@ -55,5 +79,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-24T19:03:52+00:00"
+ "updated": "2026-10-24T21:21:48+00:00"
 }
