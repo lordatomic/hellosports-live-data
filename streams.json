@@ -1,4 +1,35 @@
 {
- "streams": {},
- "updated": "2026-10-23T21:33:50+00:00"
+ "streams": {
+  "cf4cad7e": {
+   "t": "Aston Villa vs Manchester City",
+   "l": "English",
+   "h1": "https://lordatomic.github.io/uefa/Tnt12026.html",
+   "h2": "https://kpores.ru/embed/TNT-SPORTS-1-UK"
+  },
+  "2eb7910e": {
+   "t": "Aston Villa vs Manchester City",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4742030&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/33982309_tsc.m3u8"
+  },
+  "ce2489ed": {
+   "t": "Aston Villa vs Manchester City",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.qioetj.app/live/33982309_tsc.m3u8",
+   "h2": "https://kpores.ru/embed/USA-NETWORK"
+  },
+  "5f490894": {
+   "t": "Aston Villa vs Manchester City",
+   "l": "TNT 1 HD",
+   "h1": "https://kpores.ru/embed/USA-NETWORK",
+   "h2": "https://kpores.ru/embed/TNT-SPORTS-1-UK"
+  },
+  "2ed63ec3": {
+   "t": "Aston Villa vs Manchester City",
+   "l": "Sky Sports 8 Nz",
+   "h1": "https://kpores.ru/embed/SKY-SPORT-8-NZ",
+   "h2": ""
+  }
+ },
+ "updated": "2026-10-24T11:23:05+00:00"
 }
