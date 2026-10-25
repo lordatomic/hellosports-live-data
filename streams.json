@@ -1,5 +1,29 @@
 {
  "streams": {
+  "4ae3b753": {
+   "t": "Manchester United vs Bournemouth",
+   "l": "Arabic",
+   "h1": "https://a4.pandab-hd.com/albaplayer/bein-2/",
+   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=bef1aba2461f6e6c6352a4c2beb6846e&wsABSTime=1792979480"
+  },
+  "d968c4a5": {
+   "t": "Manchester United vs Bournemouth",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=bef1aba2461f6e6c6352a4c2beb6846e&wsABSTime=1792979480",
+   "h2": ""
+  },
+  "5ea90fe6": {
+   "t": "Manchester United vs Bournemouth",
+   "l": "Arabic 2",
+   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4742022&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": ""
+  },
+  "bcaa2584": {
+   "t": "Manchester United vs Bournemouth",
+   "l": "English",
+   "h1": "https://kpores.ru/embed/SKY-SPORT-3-NZ",
+   "h2": ""
+  },
   "ba92e26e": {
    "t": "Liverpool vs Brighton",
    "l": "Arabic",
@@ -25,5 +49,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-25T13:46:56+00:00"
+ "updated": "2026-10-25T13:57:03+00:00"
 }
