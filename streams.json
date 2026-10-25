@@ -1,29 +1,5 @@
 {
  "streams": {
-  "ba92e26e": {
-   "t": "Liverpool vs Brighton",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4742023&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792935660-0-0-3c8b803e5c2c04d210827306abffb90d"
-  },
-  "ee0de4f6": {
-   "t": "Liverpool vs Brighton",
-   "l": "English",
-   "h1": "https://kpores.ru/embed/SKY-SPORT-1-NZ",
-   "h2": "https://kpores.ru/embed/SKY-SPORTS-PREMIER-LEAGUE-UK"
-  },
-  "e7d4c510": {
-   "t": "Liverpool vs Brighton",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792935660-0-0-3c8b803e5c2c04d210827306abffb90d",
-   "h2": "https://a4.pandab-hd.com/albaplayer/bein-1/"
-  },
-  "b9637672": {
-   "t": "Liverpool vs Brighton",
-   "l": "Arabic 2",
-   "h1": "https://a4.pandab-hd.com/albaplayer/bein-1/",
-   "h2": ""
-  },
   "669f166f": {
    "t": "Barcelona vs Real Madrid",
    "l": "Bein 3 HD | Android | PC",
@@ -121,5 +97,5 @@
    "h2": ""
   }
  },
- "updated": "2026-10-25T21:33:50+00:00"
+ "updated": "2026-10-25T21:34:27+00:00"
 }
