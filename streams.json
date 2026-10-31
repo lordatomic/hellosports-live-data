@@ -1,23 +1,4 @@
 {
- "streams": {
-  "75ee69e2": {
-   "t": "Manchester City vs Brighton",
-   "l": "English",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4742017&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "eb2f4549": {
-   "t": "Manchester City vs Brighton",
-   "l": "Arabic",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-1/",
-   "h2": ""
-  },
-  "6fb2b4b0": {
-   "t": "Manchester City vs Brighton",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/08552895.m3u8",
-   "h2": ""
-  }
- },
- "updated": "2026-10-31T21:34:25+00:00"
+ "streams": {},
+ "updated": "2026-10-31T22:33:51+00:00"
 }
