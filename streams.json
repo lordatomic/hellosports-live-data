@@ -1,5 +1,17 @@
 {
  "streams": {
+  "b69edd68": {
+   "t": "Slavia Praha vs Arsenal",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4828434&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/08552895.m3u8"
+  },
+  "d8281296": {
+   "t": "Slavia Praha vs Arsenal",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/08552895.m3u8",
+   "h2": ""
+  },
   "0d9bc872": {
    "t": "Fenerbahçe SK vs Liverpool",
    "l": "Arabic",
@@ -49,5 +61,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-04T19:49:42+00:00"
+ "updated": "2026-11-04T19:52:10+00:00"
 }
