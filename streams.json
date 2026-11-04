@@ -1,11 +1,5 @@
 {
  "streams": {
-  "06843aec": {
-   "t": "Atletico Madrid vs Bayern Munich",
-   "l": "English",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/97885009.m3u8",
-   "h2": ""
-  },
   "abc827b7": {
    "t": "FC Barcelona vs Aston Villa",
    "l": "English",
@@ -43,5 +37,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-04T03:32:17+00:00"
+ "updated": "2026-11-04T03:32:51+00:00"
 }
