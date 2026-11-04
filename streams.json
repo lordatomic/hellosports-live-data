@@ -1,29 +1,5 @@
 {
  "streams": {
-  "abc827b7": {
-   "t": "FC Barcelona vs Aston Villa",
-   "l": "English",
-   "h1": "https://lordatomic.github.io/uefa/Tnt12026.html",
-   "h2": "https://vuxi.ci/core/?4"
-  },
-  "30119680": {
-   "t": "FC Barcelona vs Aston Villa",
-   "l": "Arabic",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://wp.machedge.site/tenz1.m3u8",
-   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/07428422.m3u8"
-  },
-  "c8b87dd5": {
-   "t": "FC Barcelona vs Aston Villa",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/07428422.m3u8",
-   "h2": ""
-  },
-  "84734c8f": {
-   "t": "FC Barcelona vs Aston Villa",
-   "l": "Arabic 2",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4828445&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
   "399bad4e": {
    "t": "Villarreal vs PSG",
    "l": "English",
@@ -37,5 +13,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-04T03:32:51+00:00"
+ "updated": "2026-11-04T03:33:21+00:00"
 }
