@@ -1,4 +1,17 @@
 {
- "streams": {},
- "updated": "2026-11-04T03:33:50+00:00"
+ "streams": {
+  "265403d8": {
+   "t": "AEK Athens vs Real Madrid",
+   "l": "English",
+   "h1": "https://vuxi.ci/core/?1",
+   "h2": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/08552895.m3u8"
+  },
+  "c3932bc1": {
+   "t": "AEK Athens vs Real Madrid",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.miekgo.app/live/08552895.m3u8",
+   "h2": ""
+  }
+ },
+ "updated": "2026-11-04T17:33:48+00:00"
 }
