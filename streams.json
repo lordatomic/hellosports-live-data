@@ -1,5 +1,11 @@
 {
  "streams": {
+  "cbaf174d": {
+   "t": "Inter Miami vs Charlotte FC",
+   "l": "English",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.wecile.app/live/02456966.m3u8",
+   "h2": ""
+  },
   "07876e2d": {
    "t": "Arsenal vs Hull City",
    "l": "English",
@@ -43,5 +49,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-07T20:16:21+00:00"
+ "updated": "2026-11-07T20:59:50+00:00"
 }
