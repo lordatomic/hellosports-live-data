@@ -1,5 +1,11 @@
 {
  "streams": {
+  "9ef15ff7": {
+   "t": "Sunderland vs Chelsea",
+   "l": "Spanish",
+   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.wecile.app/live/78905744.m3u8",
+   "h2": ""
+  },
   "2793ee64": {
    "t": "Crystal Palace vs Liverpool",
    "l": "English",
@@ -25,5 +31,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-08T13:59:23+00:00"
+ "updated": "2026-11-08T14:02:17+00:00"
 }
