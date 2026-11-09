@@ -1,29 +1,4 @@
 {
- "streams": {
-  "f35047e9": {
-   "t": "Atletico Madrid vs FC Barcelona",
-   "l": "English",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-1/",
-   "h2": ""
-  },
-  "6b74d163": {
-   "t": "Atletico Madrid vs FC Barcelona",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4750801&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "a051c8e7": {
-   "t": "Atletico Madrid vs FC Barcelona",
-   "l": "Spanish",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://m.yalla4live.live/bsez1.m3u8",
-   "h2": ""
-  },
-  "f0e3d9f9": {
-   "t": "Atletico Madrid vs FC Barcelona",
-   "l": "Spanish 2",
-   "h1": "https://aeriswispx.github.io/plyr.html?dtv=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": ""
-  }
- },
- "updated": "2026-11-08T21:33:28+00:00"
+ "streams": {},
+ "updated": "2026-11-09T03:32:18+00:00"
 }
