@@ -1,5 +1,17 @@
 {
  "streams": {
+  "8dcd8d53": {
+   "t": "England vs Croatia",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live2.jorvakstreamcache.com/live/channel12.m3u8",
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8"
+  },
+  "07aac36f": {
+   "t": "England vs Croatia",
+   "l": "Chinese",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8",
+   "h2": ""
+  },
   "68a7fc88": {
    "t": "Italy vs France",
    "l": "Spanish",
@@ -13,5 +25,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-12T19:24:00+00:00"
+ "updated": "2026-11-12T19:28:00+00:00"
 }
