@@ -1,4 +1,17 @@
 {
- "streams": {},
- "updated": "2026-11-12T13:34:04+00:00"
+ "streams": {
+  "68a7fc88": {
+   "t": "Italy vs France",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live2.jorvakstreamcache.com/live/channel1.m3u8",
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
+  },
+  "fba17ca1": {
+   "t": "Italy vs France",
+   "l": "Chinese",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
+   "h2": ""
+  }
+ },
+ "updated": "2026-11-12T19:24:00+00:00"
 }
