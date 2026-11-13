@@ -6,6 +6,18 @@
    "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
    "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794597987-0-0-d903a7f1637b20a2ae7eccfdea196240"
   },
+  "62182a1a": {
+   "t": "Serbia vs Germany",
+   "l": "Arabic",
+   "h1": "https://1.draximo.site/splayer/Live3.php",
+   "h2": "https://a5.pandab-hd.com/albaplayer/bein-3/"
+  },
+  "de6215f3": {
+   "t": "Serbia vs Germany",
+   "l": "Arabic 2",
+   "h1": "https://a5.pandab-hd.com/albaplayer/bein-3/",
+   "h2": ""
+  },
   "88185e8a": {
    "t": "Netherlands vs Greece",
    "l": "Spanish",
@@ -19,5 +31,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-13T19:35:34+00:00"
+ "updated": "2026-11-13T19:37:52+00:00"
 }
