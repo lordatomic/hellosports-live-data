@@ -1,29 +1,4 @@
 {
- "streams": {
-  "68a7fc88": {
-   "t": "Italy vs France",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live2.jorvakstreamcache.com/live/channel1.m3u8",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
-  },
-  "fba17ca1": {
-   "t": "Italy vs France",
-   "l": "Chinese",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": ""
-  },
-  "0e626a11": {
-   "t": "Italy vs France",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672305&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://a5.pandab-hd.com/albaplayer/bein-1/"
-  },
-  "20b5369e": {
-   "t": "Italy vs France",
-   "l": "Arabic 2",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-1/",
-   "h2": ""
-  }
- },
- "updated": "2026-11-13T03:19:39+00:00"
+ "streams": {},
+ "updated": "2026-11-13T03:20:09+00:00"
 }
