@@ -1,29 +1,5 @@
 {
  "streams": {
-  "8dcd8d53": {
-   "t": "England vs Croatia",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live2.jorvakstreamcache.com/live/channel12.m3u8",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8"
-  },
-  "07aac36f": {
-   "t": "England vs Croatia",
-   "l": "Chinese",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8",
-   "h2": ""
-  },
-  "48741c6d": {
-   "t": "England vs Croatia",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672303&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://a5.pandab-hd.com/albaplayer/bein-3/"
-  },
-  "f30d2b62": {
-   "t": "England vs Croatia",
-   "l": "Arabic 2",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-3/",
-   "h2": ""
-  },
   "22fea1ed": {
    "t": "Czechia vs Spain",
    "l": "Spanish",
@@ -73,5 +49,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-12T19:42:46+00:00"
+ "updated": "2026-11-13T03:19:03+00:00"
 }
