@@ -1,23 +1,5 @@
 {
  "streams": {
-  "88185e8a": {
-   "t": "Netherlands vs Greece",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/07428422.m3u8",
-   "h2": ""
-  },
-  "2f7999eb": {
-   "t": "Netherlands vs Greece",
-   "l": "Arabic",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-4/",
-   "h2": ""
-  },
-  "f96ee7f5": {
-   "t": "Netherlands vs Greece",
-   "l": "Arabic 2",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672299&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
   "7fab7875": {
    "t": "Argentina vs Uruguay",
    "l": "Spanish",
@@ -37,5 +19,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-14T03:16:41+00:00"
+ "updated": "2026-11-14T03:17:15+00:00"
 }
