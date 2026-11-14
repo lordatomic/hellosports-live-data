@@ -1,5 +1,11 @@
 {
  "streams": {
+  "6b5ca09a": {
+   "t": "Japan vs Brazil",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/78905744.m3u8",
+   "h2": ""
+  },
   "3f779e15": {
    "t": "India vs Bhutan",
    "l": "Spanish",
@@ -13,5 +19,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-14T09:03:11+00:00"
+ "updated": "2026-11-14T09:41:50+00:00"
 }
