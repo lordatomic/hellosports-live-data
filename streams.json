@@ -1,23 +1,4 @@
 {
- "streams": {
-  "7fab7875": {
-   "t": "Argentina vs Uruguay",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": ""
-  },
-  "eaf3ff3c": {
-   "t": "Argentina vs Uruguay",
-   "l": "Arabic",
-   "h1": "https://pl.matchlivehd.com/albaplayer/ch1/?serv=0",
-   "h2": ""
-  },
-  "4bc4b6e5": {
-   "t": "Argentina vs Uruguay",
-   "l": "English",
-   "h1": "https://mahsunsports.xyz/event.html?id=androstreamliveexn4",
-   "h2": ""
-  }
- },
- "updated": "2026-11-14T03:17:15+00:00"
+ "streams": {},
+ "updated": "2026-11-14T06:31:42+00:00"
 }
