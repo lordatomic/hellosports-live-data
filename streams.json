@@ -1,5 +1,11 @@
 {
  "streams": {
+  "0cfb7294": {
+   "t": "Portugal vs Denmark",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
+   "h2": ""
+  },
   "680d5160": {
    "t": "Norway vs Wales",
    "l": "English",
@@ -19,5 +25,5 @@
    "h2": ""
   }
  },
- "updated": "2026-11-14T17:46:26+00:00"
+ "updated": "2026-11-14T19:28:18+00:00"
 }
