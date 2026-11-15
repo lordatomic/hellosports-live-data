@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Live stream</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/shaka-player@5.3.5/dist/controls.css">
+  <style>
+    html,body{margin:0;height:100%;background:#090c12;color:#fff;font:15px system-ui,sans-serif}
+    body{display:flex;flex-direction:column}header{padding:10px 14px;display:flex;align-items:center;gap:12px}
+    #title{margin:0;font-size:15px;flex:1}button{padding:7px 12px;cursor:pointer}
+    #container{flex:1;min-height:0;width:100%;background:#000}video{width:100%;height:100%}
+    #status{margin:0;padding:8px 14px;color:#cbd5e1}#status:empty{display:none}
+  </style>
+</head>
+<body>
+  <header><h1 id="title">Live stream</h1><button id="retry" type="button">Reload</button></header>
+  <div id="container"><video id="video" controls autoplay muted playsinline></video></div>
+  <p id="status" role="status" aria-live="polite">Loading stream…</p>
+  <script src="https://cdn.jsdelivr.net/npm/shaka-player@5.3.5/dist/shaka-player.ui.js"></script>
+  <script>
+    'use strict';
+    const sources = ["https://cdn.jsdelivr.net/gh/lordatomic/hellosports-live-data/streams.json", "https://raw.githubusercontent.com/lordatomic/hellosports-live-data/main-df/streams.json", "https://lordatomic.github.io/hellosports-live-data/streams.json"];
+    const status = document.getElementById('status');
+    document.getElementById('retry').addEventListener('click', () => location.reload());
+    async function loadConfig(id) {
+      for (const source of sources) {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 8000);
+        try {
+          const response = await fetch(source, {cache: 'no-store', signal: controller.signal});
+          if (!response.ok) continue;
+          const data = await response.json();
+          if (!data.players || typeof data.players !== 'object') continue;
+          // A successful response without this key is authoritative: the match ended.
+          return Object.prototype.hasOwnProperty.call(data.players, id) ? data.players[id] : null;
+        } catch (_) {
+          // Try the next configured copy when the host is unavailable.
+        } finally {
+          clearTimeout(timeout);
+        }
+      }
+      throw new Error('Stream data could not be loaded. Please retry shortly.');
+    }
+    async function init() {
+      try {
+        if (!window.shaka) throw new Error('The player library could not load. Please reload.');
+        shaka.polyfill.installAll();
+        if (!shaka.Player.isBrowserSupported()) throw new Error('This browser does not support this player.');
+        const id = new URLSearchParams(location.search).get('id');
+        if (!id) throw new Error('No stream selected. Open a link from the match page.');
+        const config = await loadConfig(id);
+        if (!config) throw new Error('This stream is unavailable or the match has ended.');
+        if (!/^https?:\/\//i.test(config.manifest)) throw new Error('Invalid stream address.');
+        document.title = config.title || 'Live stream';
+        document.getElementById('title').textContent = document.title;
+        const video = document.getElementById('video');
+        const player = new shaka.Player();
+        await player.attach(video);
+        const ui = new shaka.ui.Overlay(player, document.getElementById('container'), video);
+        video.controls = false;
+        const onError = event => {
+          const code = event.detail && event.detail.code;
+          status.textContent = 'Playback failed' + (code ? ' (code ' + code + ')' : '') + '. Try Reload or another match link.';
+        };
+        player.addEventListener('error', onError);
+        ui.getControls().addEventListener('error', onError);
+        player.configure({drm: {clearKeys: config.clearKeys || {}}});
+        await player.load(config.manifest, null, config.mimeType || 'application/dash+xml');
+        status.textContent = '';
+        try { await video.play(); } catch (_) { status.textContent = 'Press Play to start.'; }
+      } catch (error) {
+        status.textContent = error.code ? 'Playback failed (code ' + error.code + '). Try another match link.' : error.message;
+      }
+    }
+    init();
+  </script>
+</body>
+</html>
