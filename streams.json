@@ -1,47 +1,4 @@
 {
- "streams": {
-  "0cfb7294": {
-   "t": "Portugal vs Denmark",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": ""
-  },
-  "a8cfe9a0": {
-   "t": "Portugal vs Denmark",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672293&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://a5.pandab-hd.com/albaplayer/bein-2/"
-  },
-  "9b24949e": {
-   "t": "Portugal vs Denmark",
-   "l": "English",
-   "h1": "https://mahsunsports.xyz/event.html?id=androstreamlivecbcs",
-   "h2": ""
-  },
-  "0f21a29f": {
-   "t": "Portugal vs Denmark",
-   "l": "Arabic 2",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-2/",
-   "h2": ""
-  },
-  "85625384": {
-   "t": "Portugal vs Denmark",
-   "l": "FOX HD AQ",
-   "h1": "https://lordatomic.github.io/master/fox.html",
-   "h2": ""
-  },
-  "ba7f34a7": {
-   "t": "Portugal vs Denmark",
-   "l": "SporTV HD",
-   "h1": "https://lordatomic.github.io/master/SporTV.html",
-   "h2": ""
-  },
-  "f9f9af5d": {
-   "t": "Portugal vs Denmark",
-   "l": "Bein 3 HD",
-   "h1": "https://lordatomic.github.io/master/bein3.html",
-   "h2": ""
-  }
- },
- "updated": "2026-11-15T00:31:25+00:00"
+ "streams": {},
+ "updated": "2026-11-15T03:16:25+00:00"
 }
