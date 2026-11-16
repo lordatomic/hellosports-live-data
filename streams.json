@@ -12,46 +12,10 @@
    "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/02456966.m3u8",
    "h2": ""
   },
-  "97e5a5706e5c5db9": {
-   "t": "Greece vs Serbia",
-   "l": "FOX SPORTS - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=97e5a5706e5c5db9",
-   "h2": ""
-  },
-  "ec320b9333669c7b": {
-   "t": "Greece vs Serbia",
-   "l": "beIN ENGLISH - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=ec320b9333669c7b",
-   "h2": ""
-  },
   "521f1bba": {
    "t": "Greece vs Serbia",
    "l": "Spanish",
    "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/97885009.m3u8",
-   "h2": ""
-  },
-  "28f982f71401a628": {
-   "t": "Germany vs Netherlands",
-   "l": "FOX SPORTS - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=28f982f71401a628",
-   "h2": ""
-  },
-  "4879b809129276f3": {
-   "t": "Germany vs Netherlands",
-   "l": "beIN ENGLISH - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=4879b809129276f3",
-   "h2": ""
-  },
-  "267f25e34b5e3b33": {
-   "t": "Germany vs Netherlands",
-   "l": "TVE La 1 - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=267f25e34b5e3b33",
-   "h2": ""
-  },
-  "ece017c92c75e5f2": {
-   "t": "Germany vs Netherlands",
-   "l": "SPORT 1 CZ - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=ece017c92c75e5f2",
    "h2": ""
   },
   "13399715": {
@@ -73,55 +37,6 @@
    "h2": ""
   }
  },
- "players": {
-  "97e5a5706e5c5db9": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "09453ce820d65fbc675de3185f9e454c": "98cff9600995fa381c76fdacf3c7edae"
-   },
-   "title": "Greece vs Serbia - FOX SPORTS - AQ"
-  },
-  "ec320b9333669c7b": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "0b42be2664d7e811d04f3e504e0924c5": "ae24090123b8c72ac5404dc152847cb8"
-   },
-   "title": "Greece vs Serbia - beIN ENGLISH - AQ"
-  },
-  "28f982f71401a628": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "5466ebd70704bdeb657f0abf3c5ca4ef": "bdd79b72d8e48ed483aa623cc38a8a16"
-   },
-   "title": "Germany vs Netherlands - FOX SPORTS - AQ"
-  },
-  "4879b809129276f3": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "7995c724a13748ed970840a8ab5bb9b3": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-   },
-   "title": "Germany vs Netherlands - beIN ENGLISH - AQ"
-  },
-  "267f25e34b5e3b33": {
-   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "745cd6ec34a58f2f7ac2af35dc3da6d2": "ae008f1e47e6567fe4201a6ff8f1ae54"
-   },
-   "title": "Germany vs Netherlands - TVE La 1 - AQ"
-  },
-  "ece017c92c75e5f2": {
-   "manifest": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
-   },
-   "title": "Germany vs Netherlands - SPORT 1 CZ - AQ"
-  }
- },
- "updated": "2026-11-16T19:37:30+00:00"
+ "players": {},
+ "updated": "2026-11-16T22:07:32+00:00"
 }
