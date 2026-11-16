@@ -1,47 +1,5 @@
 {
  "streams": {
-  "84206aaa": {
-   "t": "Spain vs England",
-   "l": "BEIN 3 English",
-   "h1": "https://lordatomic.github.io/master/bein3.html",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
-  },
-  "a69f0414": {
-   "t": "Spain vs England",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": "https://lordatomic.github.io/master/SporTV.html"
-  },
-  "0369df17": {
-   "t": "Spain vs England",
-   "l": "SporTV HD",
-   "h1": "https://lordatomic.github.io/master/SporTV.html",
-   "h2": "https://lordatomic.github.io/master/TVELa1.html"
-  },
-  "eca7d7d3": {
-   "t": "Spain vs England",
-   "l": "TVE La 1 HD",
-   "h1": "https://lordatomic.github.io/master/TVELa1.html",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
-  },
-  "5fc440c2": {
-   "t": "Spain vs England",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672280&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "f9a49340": {
-   "t": "Spain vs England",
-   "l": "English",
-   "h1": "https://mahsunsports.xyz/event.html?id=androstreamliveexn3",
-   "h2": ""
-  },
-  "8010b2e9": {
-   "t": "Spain vs England",
-   "l": "Arabic 2",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-1",
-   "h2": ""
-  },
   "11665be6": {
    "t": "France vs Turkiye",
    "l": "FOX HD",
@@ -98,5 +56,5 @@
   }
  },
  "players": {},
- "updated": "2026-11-15T22:06:45+00:00"
+ "updated": "2026-11-16T03:16:37+00:00"
 }
