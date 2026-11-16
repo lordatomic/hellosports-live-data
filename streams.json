@@ -1,35 +1,5 @@
 {
  "streams": {
-  "11665be6": {
-   "t": "France vs Turkiye",
-   "l": "FOX HD",
-   "h1": "https://lordatomic.github.io/master/fox.html",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8"
-  },
-  "cd05b0e7": {
-   "t": "France vs Turkiye",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8",
-   "h2": ""
-  },
-  "2a808c8f": {
-   "t": "France vs Turkiye",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672282&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "a6f8fdaa": {
-   "t": "France vs Turkiye",
-   "l": "Arabic 2",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-2/",
-   "h2": ""
-  },
-  "469a4207": {
-   "t": "France vs Turkiye",
-   "l": "English",
-   "h1": "https://mahsunsports.xyz/event.html?id=androstreamliveatv",
-   "h2": ""
-  },
   "37b10d6a": {
    "t": "Belgium vs Italy",
    "l": "Bein 2 HD",
@@ -56,5 +26,5 @@
   }
  },
  "players": {},
- "updated": "2026-11-16T03:16:37+00:00"
+ "updated": "2026-11-16T03:17:11+00:00"
 }
