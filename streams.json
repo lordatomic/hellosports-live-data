@@ -1,5 +1,17 @@
 {
  "streams": {
+  "3f71c956": {
+   "t": "Switzerland vs Scotland",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672273&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/02456966.m3u8"
+  },
+  "dc1086da": {
+   "t": "Switzerland vs Scotland",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/02456966.m3u8",
+   "h2": ""
+  },
   "97e5a5706e5c5db9": {
    "t": "Greece vs Serbia",
    "l": "FOX SPORTS - AQ",
@@ -111,5 +123,5 @@
    "title": "Germany vs Netherlands - SPORT 1 CZ - AQ"
   }
  },
- "updated": "2026-11-16T19:33:45+00:00"
+ "updated": "2026-11-16T19:37:30+00:00"
 }
