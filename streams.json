@@ -1,11 +1,5 @@
 {
  "streams": {
-  "68def2f5": {
-   "t": "Singapore vs Brazil",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/75915087.m3u8",
-   "h2": ""
-  },
   "8d7f00b3": {
    "t": "India vs Pakistan",
    "l": "Hindi",
@@ -38,5 +32,5 @@
   }
  },
  "players": {},
- "updated": "2026-11-17T14:12:44+00:00"
+ "updated": "2026-11-17T17:31:37+00:00"
 }
