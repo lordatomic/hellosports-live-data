@@ -113,36 +113,6 @@
    "l": "Spanish",
    "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
    "h2": ""
-  },
-  "8d7f00b3": {
-   "t": "India vs Pakistan",
-   "l": "Hindi",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-   "h2": ""
-  },
-  "78a0c123": {
-   "t": "India vs Pakistan",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/75915087.m3u8",
-   "h2": ""
-  },
-  "cebc33ff": {
-   "t": "India vs Pakistan",
-   "l": "English",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
-  },
-  "8916531e": {
-   "t": "India vs Pakistan",
-   "l": "English 2",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794669987-0-0-74b37e5093ff66f289c6368cbfc38a5d"
-  },
-  "68daa49d": {
-   "t": "India vs Pakistan",
-   "l": "Spanish 2",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://pull.niues.live/live/stream-626841_lhd.m3u8?auth_key=1794669987-0-0-74b37e5093ff66f289c6368cbfc38a5d",
-   "h2": ""
   }
  },
  "players": {
@@ -219,5 +189,5 @@
    "title": "Argentina vs Costa Rica - SporTV BR ALT"
   }
  },
- "updated": "2026-11-17T20:10:36+00:00"
+ "updated": "2026-11-17T21:30:40+00:00"
 }
