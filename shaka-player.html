@@ -316,7 +316,7 @@ function buildCfg(){
     if(PROF.maxBw > 0) restr.maxBandwidth = PROF.maxBw;
   }
   return {
-    manifest:{ defaultPresentationDelay:4, ignoreTextStreamFailures:true,
+    manifest:{ defaultPresentationDelay:4,
       retryParameters:{ maxAttempts:5, baseDelay:500, backoffFactor:2, fuzzFactor:.5, timeout:30000 } },
     streaming:{ lowLatencyMode:false, bufferingGoal:PROF.buf, rebufferingGoal:PROF.reBuf, bufferBehind:PROF.behind,
       safeSeekOffset:4, stallEnabled:true, stallThreshold:1, stallSkip:.3, inaccurateManifestTolerance:0,
@@ -562,6 +562,10 @@ document.addEventListener("fullscreenchange", () => {
    STREAM DATA (published by the bot)
    ============================================================ */
 async function loadConfig(id){
+  // Copies can lag behind (the CDN caches for a while), so a copy without this
+  // stream is not proof that it ended: try the others, and report "ended" only
+  // when every copy that answered lacks it.
+  let answered = false;
   for(const source of DATA_SOURCES){
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 8000);
@@ -570,14 +574,15 @@ async function loadConfig(id){
       if(!res.ok) continue;
       const data = await res.json();
       if(!data || !data.players || typeof data.players !== "object") continue;
-      // A successful response without this key is authoritative: the match ended.
-      return Object.prototype.hasOwnProperty.call(data.players, id) ? data.players[id] : null;
+      answered = true;
+      if(Object.prototype.hasOwnProperty.call(data.players, id)) return data.players[id];
     }catch(_){
       // Try the next configured copy when the host is unavailable.
     }finally{
       clearTimeout(timeout);
     }
   }
+  if(answered) return null;
   throw new Error("Stream data could not be loaded. Please retry shortly.");
 }
 
