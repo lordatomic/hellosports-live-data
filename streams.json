@@ -94,7 +94,7 @@
    "t": "Argentina vs Costa Rica",
    "l": "SporTV BR FHD",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=ff9628d5ae89e0f7",
-   "h2": ""
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
   },
   "8ef1cd04e94f2bf4": {
    "t": "Argentina vs Costa Rica",
@@ -213,5 +213,5 @@
    "title": "Argentina vs Costa Rica - SporTV BR ALT"
   }
  },
- "updated": "2026-11-17T20:07:32+00:00"
+ "updated": "2026-11-17T20:09:25+00:00"
 }
