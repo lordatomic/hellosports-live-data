@@ -1,18 +1,5 @@
 {
- "streams": {
-  "3f71c956": {
-   "t": "Switzerland vs Scotland",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672273&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/02456966.m3u8"
-  },
-  "dc1086da": {
-   "t": "Switzerland vs Scotland",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/02456966.m3u8",
-   "h2": ""
-  }
- },
+ "streams": {},
  "players": {},
- "updated": "2026-11-17T03:07:13+00:00"
+ "updated": "2026-11-17T03:16:38+00:00"
 }
