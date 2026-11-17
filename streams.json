@@ -1,5 +1,12 @@
 {
- "streams": {},
+ "streams": {
+  "68def2f5": {
+   "t": "Singapore vs Brazil",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/75915087.m3u8",
+   "h2": ""
+  }
+ },
  "players": {},
- "updated": "2026-11-17T03:16:38+00:00"
+ "updated": "2026-11-17T06:38:24+00:00"
 }
