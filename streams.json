@@ -1,47 +1,5 @@
 {
  "streams": {
-  "7ed7466a4388721b": {
-   "t": "Denmark vs Norway",
-   "l": "FOX SPORTS FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=7ed7466a4388721b",
-   "h2": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672267&key=9f39972b67d6ce22189507d008acwc26"
-  },
-  "86db734253839d00": {
-   "t": "Denmark vs Norway",
-   "l": "beIN ENGLISH FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=86db734253839d00",
-   "h2": ""
-  },
-  "66cb64a7a832448d": {
-   "t": "Denmark vs Norway",
-   "l": "SPORT 1 CZ FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=66cb64a7a832448d",
-   "h2": ""
-  },
-  "f0dab922": {
-   "t": "Denmark vs Norway",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": ""
-  },
-  "f1bdc712": {
-   "t": "Denmark vs Norway",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672267&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "5d604951": {
-   "t": "Denmark vs Norway",
-   "l": "English",
-   "h1": "https://mahsunsports.xyz/event.html?id=androstreamliveexn3",
-   "h2": ""
-  },
-  "813dbeac": {
-   "t": "Denmark vs Norway",
-   "l": "Arabic 2",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-3/?serv=2",
-   "h2": "https://a5.pandab-hd.com/albaplayer/bein-3/"
-  },
   "ff9628d5ae89e0f7": {
    "t": "Argentina vs Costa Rica",
    "l": "SporTV BR FHD",
@@ -68,30 +26,6 @@
   }
  },
  "players": {
-  "7ed7466a4388721b": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "5466ebd70704bdeb657f0abf3c5ca4ef": "bdd79b72d8e48ed483aa623cc38a8a16"
-   },
-   "title": "Denmark vs Norway - FOX SPORTS FHD"
-  },
-  "86db734253839d00": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "0b42be2664d7e811d04f3e504e0924c5": "ae24090123b8c72ac5404dc152847cb8"
-   },
-   "title": "Denmark vs Norway - beIN ENGLISH FHD"
-  },
-  "66cb64a7a832448d": {
-   "manifest": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
-   },
-   "title": "Denmark vs Norway - SPORT 1 CZ FHD"
-  },
   "ff9628d5ae89e0f7": {
    "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -117,5 +51,5 @@
    "title": "Argentina vs Costa Rica - SporTV BR ALT"
   }
  },
- "updated": "2026-11-18T03:15:41+00:00"
+ "updated": "2026-11-18T03:16:16+00:00"
 }
