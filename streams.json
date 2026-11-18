@@ -1,53 +1,5 @@
 {
  "streams": {
-  "a81340d57cc5796d": {
-   "t": "Wales vs Portugal",
-   "l": "beIN ENGLISH FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=a81340d57cc5796d",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/07428422.m3u8"
-  },
-  "c66a307c9ddd1a33": {
-   "t": "Wales vs Portugal",
-   "l": "SporTV BR FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=c66a307c9ddd1a33",
-   "h2": ""
-  },
-  "2ed6f1d62dcee0ca": {
-   "t": "Wales vs Portugal",
-   "l": "SPORT 2 CZ FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=2ed6f1d62dcee0ca",
-   "h2": ""
-  },
-  "04c85bb7": {
-   "t": "Wales vs Portugal",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/07428422.m3u8",
-   "h2": ""
-  },
-  "31c47987": {
-   "t": "Wales vs Portugal",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4672266&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "28242ca3": {
-   "t": "Wales vs Portugal",
-   "l": "English",
-   "h1": "https://mahsunsports.xyz/event.html?id=androstreamliveas",
-   "h2": ""
-  },
-  "08204924": {
-   "t": "Wales vs Portugal",
-   "l": "Arabic 2",
-   "h1": "https://a5.pandab-hd.com/albaplayer/bein-2/",
-   "h2": ""
-  },
-  "cd2d916d": {
-   "t": "Wales vs Portugal",
-   "l": "Arabic 3",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://m.yalla4live.live/bewe2.m3u8",
-   "h2": ""
-  },
   "7ed7466a4388721b": {
    "t": "Denmark vs Norway",
    "l": "FOX SPORTS FHD",
@@ -116,30 +68,6 @@
   }
  },
  "players": {
-  "a81340d57cc5796d": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "7995c724a13748ed970840a8ab5bb9b3": "67bdaf1e2175b9ff682fcdf0e2354b1e"
-   },
-   "title": "Wales vs Portugal - beIN ENGLISH FHD"
-  },
-  "c66a307c9ddd1a33": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "51c0ef23b17297e5c01cd7f36dd0a6ce": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-   },
-   "title": "Wales vs Portugal - SporTV BR FHD"
-  },
-  "2ed6f1d62dcee0ca": {
-   "manifest": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
-   },
-   "title": "Wales vs Portugal - SPORT 2 CZ FHD"
-  },
   "7ed7466a4388721b": {
    "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -189,5 +117,5 @@
    "title": "Argentina vs Costa Rica - SporTV BR ALT"
   }
  },
- "updated": "2026-11-17T21:30:40+00:00"
+ "updated": "2026-11-18T03:15:41+00:00"
 }
