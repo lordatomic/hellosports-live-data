@@ -1,55 +1,5 @@
 {
- "streams": {
-  "ff9628d5ae89e0f7": {
-   "t": "Argentina vs Costa Rica",
-   "l": "SporTV BR FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=ff9628d5ae89e0f7",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
-  },
-  "8ef1cd04e94f2bf4": {
-   "t": "Argentina vs Costa Rica",
-   "l": "D Sports FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=8ef1cd04e94f2bf4",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
-  },
-  "02c63e4a8c60e5e9": {
-   "t": "Argentina vs Costa Rica",
-   "l": "SporTV BR ALT",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=02c63e4a8c60e5e9",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
-  },
-  "20f895c6": {
-   "t": "Argentina vs Costa Rica",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": ""
-  }
- },
- "players": {
-  "ff9628d5ae89e0f7": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "51c0ef23b17297e5c01cd7f36dd0a6ce": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-   },
-   "title": "Argentina vs Costa Rica - SporTV BR FHD"
-  },
-  "8ef1cd04e94f2bf4": {
-   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "f836853d8eac19446ed9535f5fc568b1": "b3bc5ef00602b29abac7e482d3d9fbf3"
-   },
-   "title": "Argentina vs Costa Rica - D Sports FHD"
-  },
-  "02c63e4a8c60e5e9": {
-   "manifest": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "51c0ef23b17297e5c01cd7f36dd0a6ce": "8823f713ba6fdb9bbe0a2ad82d309a4b"
-   },
-   "title": "Argentina vs Costa Rica - SporTV BR ALT"
-  }
- },
- "updated": "2026-11-18T03:16:16+00:00"
+ "streams": {},
+ "players": {},
+ "updated": "2026-11-18T06:30:41+00:00"
 }
