@@ -30,6 +30,12 @@
    "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
    "h2": ""
   },
+  "ff7859b329220251": {
+   "t": "Newcastle United vs Arsenal",
+   "l": "CAZE TV FHD",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=ff7859b329220251",
+   "h2": ""
+  },
   "999e70e248998a3d": {
    "t": "Manchester City vs Fulham",
    "l": "TNT SPORTS - AQ",
@@ -114,6 +120,14 @@
    },
    "title": "Newcastle United vs Arsenal - SKY SPORTS EPL"
   },
+  "ff7859b329220251": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "ba6aca5a550163c38d06646bb50f04e7": "516c3b471fce48a5b7a2e5ee7dd505f2"
+   },
+   "title": "Newcastle United vs Arsenal - CAZE TV FHD"
+  },
   "999e70e248998a3d": {
    "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -171,5 +185,5 @@
    "title": "Real Madrid vs Celta Vigo - CAZE TV BR - AQ"
   }
  },
- "updated": "2026-11-21T17:50:17+00:00"
+ "updated": "2026-11-21T17:52:34+00:00"
 }
