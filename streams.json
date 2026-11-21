@@ -5,6 +5,18 @@
    "l": "TNT SPORTS - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=999e70e248998a3d",
    "h2": ""
+  },
+  "61812438adffa68b": {
+   "t": "Manchester City vs Fulham",
+   "l": "FUBO SPORTS FHD",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=61812438adffa68b",
+   "h2": ""
+  },
+  "d40250bff7683c2e": {
+   "t": "Manchester City vs Fulham",
+   "l": "SKY SPORTS EPL",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=d40250bff7683c2e",
+   "h2": ""
   }
  },
  "players": {
@@ -15,7 +27,23 @@
     "69a5aa835a061ce64a630d1046727e40": "d02feac8a999bd06bf4059bf33411749"
    },
    "title": "Manchester City vs Fulham - TNT SPORTS - AQ"
+  },
+  "61812438adffa68b": {
+   "manifest": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "42f72c025dd53039244adc13b7e31dad": "a7bd941a19f6dd14f3004a623a6ad3a1"
+   },
+   "title": "Manchester City vs Fulham - FUBO SPORTS FHD"
+  },
+  "d40250bff7683c2e": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "1106fb025da5b31657618344099c6c14": "788284538616a73b56214e90196a6e0f"
+   },
+   "title": "Manchester City vs Fulham - SKY SPORTS EPL"
   }
  },
- "updated": "2026-11-21T09:04:35+00:00"
+ "updated": "2026-11-21T11:58:34+00:00"
 }
