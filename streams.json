@@ -17,6 +17,12 @@
    "l": "SKY SPORTS EPL",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=d40250bff7683c2e",
    "h2": ""
+  },
+  "0993bf94": {
+   "t": "Chennaiyin FC vs Punjab FC",
+   "l": "English",
+   "h1": "https://www.youtube.com/embed/oUfIZcRyKBw?si=93j7JKkdEoOhQgeF",
+   "h2": ""
   }
  },
  "players": {
@@ -45,5 +51,5 @@
    "title": "Manchester City vs Fulham - SKY SPORTS EPL"
   }
  },
- "updated": "2026-11-21T11:58:34+00:00"
+ "updated": "2026-11-21T12:34:58+00:00"
 }
