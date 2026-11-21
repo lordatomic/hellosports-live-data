@@ -36,6 +36,24 @@
    "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8",
    "h2": ""
   },
+  "ccf1e95d0baf3533": {
+   "t": "Real Madrid vs Celta Vigo",
+   "l": "BEIN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=ccf1e95d0baf3533",
+   "h2": ""
+  },
+  "b3e0ad23d52fde47": {
+   "t": "Real Madrid vs Celta Vigo",
+   "l": "FANCODE - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=b3e0ad23d52fde47",
+   "h2": ""
+  },
+  "8c8ed2a0ea7ebfb6": {
+   "t": "Real Madrid vs Celta Vigo",
+   "l": "CAZE TV BR - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=8c8ed2a0ea7ebfb6",
+   "h2": ""
+  },
   "d987f7a6": {
    "t": "Malappuram FC vs Thiruvananthapuram",
    "l": "English",
@@ -81,7 +99,31 @@
     "42f72c025dd53039244adc13b7e31dad": "a7bd941a19f6dd14f3004a623a6ad3a1"
    },
    "title": "Manchester City vs Fulham - FUBO SPORTS FHD 2"
+  },
+  "ccf1e95d0baf3533": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "7995c724a13748ed970840a8ab5bb9b3": "67bdaf1e2175b9ff682fcdf0e2354b1e"
+   },
+   "title": "Real Madrid vs Celta Vigo - BEIN SPORTS - AQ"
+  },
+  "b3e0ad23d52fde47": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "82dfca238e8c4b430a3269db71965db9": "a00b28caf4ac628e77a553d440c0ddca"
+   },
+   "title": "Real Madrid vs Celta Vigo - FANCODE - AQ"
+  },
+  "8c8ed2a0ea7ebfb6": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
+   },
+   "title": "Real Madrid vs Celta Vigo - CAZE TV BR - AQ"
   }
  },
- "updated": "2026-11-21T14:14:08+00:00"
+ "updated": "2026-11-21T15:28:34+00:00"
 }
