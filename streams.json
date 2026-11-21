@@ -1,5 +1,21 @@
 {
- "streams": {},
- "players": {},
- "updated": "2026-11-21T01:00:41+00:00"
+ "streams": {
+  "999e70e248998a3d": {
+   "t": "Manchester City vs Fulham",
+   "l": "TNT SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=999e70e248998a3d",
+   "h2": ""
+  }
+ },
+ "players": {
+  "999e70e248998a3d": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "69a5aa835a061ce64a630d1046727e40": "d02feac8a999bd06bf4059bf33411749"
+   },
+   "title": "Manchester City vs Fulham - TNT SPORTS - AQ"
+  }
+ },
+ "updated": "2026-11-21T09:04:35+00:00"
 }
