@@ -1,24 +1,5 @@
 {
- "streams": {
-  "4b975b13": {
-   "t": "Al Ahli Jeddah vs Al Nassr FC Riyadh",
-   "l": "English",
-   "h1": "https://footsters.thecricsters.workers.dev/?play=12&stream=1",
-   "h2": ""
-  },
-  "bef94f78": {
-   "t": "Al Ahli Jeddah vs Al Nassr FC Riyadh",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4891951&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "74a6d396": {
-   "t": "Al Ahli Jeddah vs Al Nassr FC Riyadh",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8",
-   "h2": ""
-  }
- },
+ "streams": {},
  "players": {},
- "updated": "2026-11-20T17:38:19+00:00"
+ "updated": "2026-11-21T01:00:41+00:00"
 }
