@@ -59,6 +59,12 @@
    "l": "DAZN DE - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=1d6fb366ef5cad55",
    "h2": ""
+  },
+  "7cc4aa2c": {
+   "t": "Churchill Brothers vs Mohun Bagan",
+   "l": "English",
+   "h1": "https://www.youtube.com/live/hI9tQwnCC18?si=Sp5NoI-bPCpVSa1I",
+   "h2": ""
   }
  },
  "players": {
@@ -127,5 +133,5 @@
    "title": "FC Barcelona vs Villarreal - DAZN DE - AQ"
   }
  },
- "updated": "2026-11-22T13:28:35+00:00"
+ "updated": "2026-11-22T14:08:31+00:00"
 }
