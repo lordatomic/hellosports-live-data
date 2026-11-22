@@ -1,5 +1,49 @@
 {
- "streams": {},
- "players": {},
- "updated": "2026-11-22T03:30:40+00:00"
+ "streams": {
+  "f87bc087b0c60f54": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "TSN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=f87bc087b0c60f54",
+   "h2": ""
+  },
+  "4f97c0d1d056aa92": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "beIN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=4f97c0d1d056aa92",
+   "h2": ""
+  },
+  "f9c9c4f70262c2f9": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "PREMIER SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=f9c9c4f70262c2f9",
+   "h2": ""
+  }
+ },
+ "players": {
+  "f87bc087b0c60f54": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "abc5b2883121012850ebda05b528c5ec": "e5250924f4b738905f7163a0134587a7"
+   },
+   "title": "FC Barcelona vs Villarreal - TSN SPORTS - AQ"
+  },
+  "4f97c0d1d056aa92": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "335dad778109954503dcbb21dc92015f": "24bfd75d436cbf73168a2a2dccd40281"
+   },
+   "title": "FC Barcelona vs Villarreal - beIN SPORTS - AQ"
+  },
+  "f9c9c4f70262c2f9": {
+   "manifest": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "1444f4235529f183f0a5a486befe9cdb": "e5e3fec67a1bb3472a2089c8a0a2557f"
+   },
+   "title": "FC Barcelona vs Villarreal - PREMIER SPORTS - AQ"
+  }
+ },
+ "updated": "2026-11-22T07:08:34+00:00"
 }
