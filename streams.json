@@ -35,6 +35,18 @@
    "l": "CAZE TV BR - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=956256e0b489d663",
    "h2": ""
+  },
+  "32fe5a1d": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "Arabic",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/07428422.m3u8",
+   "h2": ""
+  },
+  "ced426df": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/07428422.m3u8",
+   "h2": ""
   }
  },
  "players": {
@@ -87,5 +99,5 @@
    "title": "FC Barcelona vs Villarreal - CAZE TV BR - AQ"
   }
  },
- "updated": "2026-11-22T10:12:35+00:00"
+ "updated": "2026-11-22T12:33:14+00:00"
 }
