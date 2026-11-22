@@ -17,6 +17,24 @@
    "l": "PREMIER SPORTS - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=f9c9c4f70262c2f9",
    "h2": ""
+  },
+  "b935cf2619a85415": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "D SPORTS ES - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=b935cf2619a85415",
+   "h2": ""
+  },
+  "5a8d90aaa90d120b": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "FANCODE - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=5a8d90aaa90d120b",
+   "h2": ""
+  },
+  "956256e0b489d663": {
+   "t": "FC Barcelona vs Villarreal",
+   "l": "CAZE TV BR - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=956256e0b489d663",
+   "h2": ""
   }
  },
  "players": {
@@ -43,7 +61,31 @@
     "1444f4235529f183f0a5a486befe9cdb": "e5e3fec67a1bb3472a2089c8a0a2557f"
    },
    "title": "FC Barcelona vs Villarreal - PREMIER SPORTS - AQ"
+  },
+  "b935cf2619a85415": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "f836853d8eac19446ed9535f5fc568b1": "b3bc5ef00602b29abac7e482d3d9fbf3"
+   },
+   "title": "FC Barcelona vs Villarreal - D SPORTS ES - AQ"
+  },
+  "5a8d90aaa90d120b": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "82dfca238e8c4b430a3269db71965db9": "a00b28caf4ac628e77a553d440c0ddca"
+   },
+   "title": "FC Barcelona vs Villarreal - FANCODE - AQ"
+  },
+  "956256e0b489d663": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "34475edab991ad5e92548aebd710410a": "501b209cccd323ac00bf5ac15b406cb4"
+   },
+   "title": "FC Barcelona vs Villarreal - CAZE TV BR - AQ"
   }
  },
- "updated": "2026-11-22T07:08:34+00:00"
+ "updated": "2026-11-22T10:12:35+00:00"
 }
