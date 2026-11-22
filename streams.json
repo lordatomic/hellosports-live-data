@@ -1,5 +1,17 @@
 {
  "streams": {
+  "3cf6f9fb": {
+   "t": "Liverpool vs Manchester United",
+   "l": "Arabic",
+   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4741995&key=9f39972b67d6ce22189507d008acwc26",
+   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
+  },
+  "87096a55": {
+   "t": "Liverpool vs Manchester United",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
+   "h2": ""
+  },
   "f87bc087b0c60f54": {
    "t": "FC Barcelona vs Villarreal",
    "l": "TSN SPORTS - AQ",
@@ -145,5 +157,5 @@
    "title": "FC Barcelona vs Villarreal - DAZN DE - AQ"
   }
  },
- "updated": "2026-11-22T14:10:50+00:00"
+ "updated": "2026-11-22T16:49:23+00:00"
 }
