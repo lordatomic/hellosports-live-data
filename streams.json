@@ -1,35 +1,5 @@
 {
  "streams": {
-  "0e3809bb4f1039bb": {
-   "t": "Newcastle United vs Arsenal",
-   "l": "FUBO SPORTS FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=0e3809bb4f1039bb",
-   "h2": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8"
-  },
-  "cdae80b5edcc5614": {
-   "t": "Newcastle United vs Arsenal",
-   "l": "SKY SPORTS EPL",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=cdae80b5edcc5614",
-   "h2": ""
-  },
-  "76180c2b": {
-   "t": "Newcastle United vs Arsenal",
-   "l": "Arabic",
-   "h1": "https://912acsss8af382.sirtv.top/playerv5.php?match=4741993&key=9f39972b67d6ce22189507d008acwc26",
-   "h2": ""
-  },
-  "e198e2d6": {
-   "t": "Newcastle United vs Arsenal",
-   "l": "Spanish",
-   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/08552895.m3u8",
-   "h2": ""
-  },
-  "ff7859b329220251": {
-   "t": "Newcastle United vs Arsenal",
-   "l": "CAZE TV FHD",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=ff7859b329220251",
-   "h2": ""
-  },
   "ccf1e95d0baf3533": {
    "t": "Real Madrid vs Celta Vigo",
    "l": "BEIN SPORTS - AQ",
@@ -74,30 +44,6 @@
   }
  },
  "players": {
-  "0e3809bb4f1039bb": {
-   "manifest": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "42f72c025dd53039244adc13b7e31dad": "a7bd941a19f6dd14f3004a623a6ad3a1"
-   },
-   "title": "Newcastle United vs Arsenal - FUBO SPORTS FHD"
-  },
-  "cdae80b5edcc5614": {
-   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "1106fb025da5b31657618344099c6c14": "788284538616a73b56214e90196a6e0f"
-   },
-   "title": "Newcastle United vs Arsenal - SKY SPORTS EPL"
-  },
-  "ff7859b329220251": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "ba6aca5a550163c38d06646bb50f04e7": "516c3b471fce48a5b7a2e5ee7dd505f2"
-   },
-   "title": "Newcastle United vs Arsenal - CAZE TV FHD"
-  },
   "ccf1e95d0baf3533": {
    "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?",
    "mimeType": "application/dash+xml",
@@ -139,5 +85,5 @@
    "title": "Real Madrid vs Celta Vigo - DAZN [MULTI AUDIO]"
   }
  },
- "updated": "2026-11-21T23:45:41+00:00"
+ "updated": "2026-11-22T01:00:41+00:00"
 }
