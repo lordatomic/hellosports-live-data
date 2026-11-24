@@ -18,6 +18,18 @@
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=70d7847a613a513e",
    "h2": ""
   },
+  "8f298f173f5c6bae": {
+   "t": "Arsenal vs Borussia Dortmund",
+   "l": "DAZN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=8f298f173f5c6bae",
+   "h2": ""
+  },
+  "92c027013e4d9c04": {
+   "t": "Arsenal vs Borussia Dortmund",
+   "l": "VIX SPANISH - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=92c027013e4d9c04",
+   "h2": ""
+  },
   "623d1ea8e291598e": {
    "t": "Real Madrid vs PSV Eindhoven",
    "l": "TNT SPORTS - AQ",
@@ -34,6 +46,18 @@
    "t": "Real Madrid vs PSV Eindhoven",
    "l": "PARAMOUNT - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=f45fa3e96b819f73",
+   "h2": ""
+  },
+  "7bb279a3574d4e64": {
+   "t": "Real Madrid vs PSV Eindhoven",
+   "l": "DAZN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=7bb279a3574d4e64",
+   "h2": ""
+  },
+  "c450b4f64986a6e3": {
+   "t": "Real Madrid vs PSV Eindhoven",
+   "l": "VIX SPANISH - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=c450b4f64986a6e3",
    "h2": ""
   },
   "e9d44b71": {
@@ -60,6 +84,22 @@
    },
    "title": "Arsenal vs Borussia Dortmund - PARAMOUNT - AQ"
   },
+  "8f298f173f5c6bae": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nc636ertqy/out/v1/69c15ba2668b43dd98059c1d9f087e27/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "524ba85cd2d0f1f90cfd55cb47cd0eba": "045574cc7b81cae59696ff11724e3116"
+   },
+   "title": "Arsenal vs Borussia Dortmund - DAZN SPORTS - AQ"
+  },
+  "92c027013e4d9c04": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h095losor7/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "76e09043399185f50fff14339d3a191b": "6660c3d94ca5461aabe9d60f302aa317"
+   },
+   "title": "Arsenal vs Borussia Dortmund - VIX SPANISH - AQ"
+  },
   "623d1ea8e291598e": {
    "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -83,7 +123,23 @@
     "5884bb5909efeb5f5d1a6021da2f2be3": "cfbd0eb6bd9a9328b965df81e867e12b"
    },
    "title": "Real Madrid vs PSV Eindhoven - PARAMOUNT - AQ"
+  },
+  "7bb279a3574d4e64": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/caoenres0r/out/v1/a599fe0abd74438e85a3e02f58ef0580/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "0958c135d276e5172aae3abcee8ac59e": "8ad286875e71daa285f25b9096d78bd5"
+   },
+   "title": "Real Madrid vs PSV Eindhoven - DAZN SPORTS - AQ"
+  },
+  "c450b4f64986a6e3": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/phtt5mrfi5/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "0ddfb373646c342db2b98ce7a49d809f": "f6cc546957d8c96fb5c041b3b3ff4a3a"
+   },
+   "title": "Real Madrid vs PSV Eindhoven - VIX SPANISH - AQ"
   }
  },
- "updated": "2026-11-24T19:58:35+00:00"
+ "updated": "2026-11-24T20:10:35+00:00"
 }
