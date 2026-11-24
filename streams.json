@@ -1,5 +1,11 @@
 {
  "streams": {
+  "8bc84f13": {
+   "t": "East Bengal vs Al Hussein",
+   "l": "English",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/88508431.m3u8",
+   "h2": ""
+  },
   "623d1ea8e291598e": {
    "t": "Real Madrid vs PSV Eindhoven",
    "l": "TNT SPORTS - AQ",
@@ -23,5 +29,5 @@
    "title": "Real Madrid vs PSV Eindhoven - TNT SPORTS - AQ"
   }
  },
- "updated": "2026-11-24T13:56:22+00:00"
+ "updated": "2026-11-24T13:58:03+00:00"
 }
