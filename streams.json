@@ -42,6 +42,18 @@
    "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/14707124.m3u8",
    "h2": ""
   },
+  "737cd15f0c96ef07": {
+   "t": "Atletico Madrid vs Viking",
+   "l": "DAZN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=737cd15f0c96ef07",
+   "h2": ""
+  },
+  "679d710f2ed905f1": {
+   "t": "Atletico Madrid vs Viking",
+   "l": "DAZN DE - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=679d710f2ed905f1",
+   "h2": ""
+  },
   "723a586e": {
    "t": "PSG vs AS Roma",
    "l": "Arabic",
@@ -168,6 +180,22 @@
    },
    "title": "Atletico Madrid vs Viking - PARAMOUNT+ - AQ"
   },
+  "737cd15f0c96ef07": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ouonsgcxy3/out/v1/1ab520659b25461c8e4cfa048d11be18/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "5f0b77cd292b2ad94b8dd6b9f7e1e3f0": "dc7094e467373756724e877561e03eec"
+   },
+   "title": "Atletico Madrid vs Viking - DAZN SPORTS - AQ"
+  },
+  "679d710f2ed905f1": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fnsff1rdjx/out/v1/db6933e3850e45ddae720b499cb8a04b/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "ab435b88901feb9cc88b82c6de6760e0": "bbbca45fc3a000f2a4c87b2692a6e091"
+   },
+   "title": "Atletico Madrid vs Viking - DAZN DE - AQ"
+  },
   "1788f26710f9fd79": {
    "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vm6obaulus/out/v1/6653f58dc54d4b2ca30baade63aacc60/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -217,5 +245,5 @@
    "title": "Sabah vs FC Barcelona - TNT BRASIL - AQ"
   }
  },
- "updated": "2026-11-25T20:06:41+00:00"
+ "updated": "2026-11-25T20:08:40+00:00"
 }
