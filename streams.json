@@ -1,5 +1,11 @@
 {
  "streams": {
+  "94ad40f95852450c": {
+   "t": "Sporting CP vs Manchester United",
+   "l": "TNT SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=94ad40f95852450c",
+   "h2": ""
+  },
   "579f5657": {
    "t": "Malappuram FC vs Kannur Warriors",
    "l": "English",
@@ -13,6 +19,15 @@
    "h2": ""
   }
  },
- "players": {},
- "updated": "2026-11-25T13:46:58+00:00"
+ "players": {
+  "94ad40f95852450c": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "69a5aa835a061ce64a630d1046727e40": "d02feac8a999bd06bf4059bf33411749"
+   },
+   "title": "Sporting CP vs Manchester United - TNT SPORTS - AQ"
+  }
+ },
+ "updated": "2026-11-25T16:32:35+00:00"
 }
