@@ -24,6 +24,12 @@
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=16beaa7154409dfb",
    "h2": ""
   },
+  "38b528ae0f085671": {
+   "t": "Sporting CP vs Manchester United",
+   "l": "DAZN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=38b528ae0f085671",
+   "h2": ""
+  },
   "7685388cb801821e": {
    "t": "Atletico Madrid vs Viking",
    "l": "PARAMOUNT+ - AQ",
@@ -184,6 +190,14 @@
    },
    "title": "Sporting CP vs Manchester United - FOX SPORTS - AQ"
   },
+  "38b528ae0f085671": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hcffsl5lmw/out/v1/ab7b596f96d746e9b1b97a515354a565/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "697b4221eb7e42f97cfff975bac3f97d": "71a48f3f98eea7e2ebf586c75f88c6b6"
+   },
+   "title": "Sporting CP vs Manchester United - DAZN SPORTS - AQ"
+  },
   "7685388cb801821e": {
    "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -257,5 +271,5 @@
    "title": "Sabah vs FC Barcelona - TNT BRASIL - AQ"
   }
  },
- "updated": "2026-11-25T20:09:28+00:00"
+ "updated": "2026-11-25T20:12:40+00:00"
 }
