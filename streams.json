@@ -6,6 +6,30 @@
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=94ad40f95852450c",
    "h2": ""
   },
+  "7479d93c3f572ed0": {
+   "t": "Sporting CP vs Manchester United",
+   "l": "PARAMOUNT+ - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=7479d93c3f572ed0",
+   "h2": ""
+  },
+  "fd5ca2f5fa70f08d": {
+   "t": "Sporting CP vs Manchester United",
+   "l": "DAZN DE - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=fd5ca2f5fa70f08d",
+   "h2": ""
+  },
+  "16beaa7154409dfb": {
+   "t": "Sporting CP vs Manchester United",
+   "l": "FOX SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=16beaa7154409dfb",
+   "h2": ""
+  },
+  "7685388cb801821e": {
+   "t": "Atletico Madrid vs Viking",
+   "l": "PARAMOUNT+ - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=7685388cb801821e",
+   "h2": ""
+  },
   "54512b6d": {
    "t": "Sabah vs FC Barcelona",
    "l": "English",
@@ -88,6 +112,38 @@
    },
    "title": "Sporting CP vs Manchester United - TNT SPORTS - AQ"
   },
+  "7479d93c3f572ed0": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyphmrggok/out/v1/bccc02717c1243f3bf640c3a873d2a39/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "22d870b4fe3b99e70f7862db29f51861": "0848c89bd5e80b385fe60fe3b92a49ce"
+   },
+   "title": "Sporting CP vs Manchester United - PARAMOUNT+ - AQ"
+  },
+  "fd5ca2f5fa70f08d": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzlpejwcoa/out/v1/54d8dad65f6445c5924e0a62ebdf07ce/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "8935a50ac72a858fbce8ba9a618711e1": "72f92171d06fff3ef718408ff9eac969"
+   },
+   "title": "Sporting CP vs Manchester United - DAZN DE - AQ"
+  },
+  "16beaa7154409dfb": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "09453ce820d65fbc675de3185f9e454c": "98cff9600995fa381c76fdacf3c7edae"
+   },
+   "title": "Sporting CP vs Manchester United - FOX SPORTS - AQ"
+  },
+  "7685388cb801821e": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "49f5f90163d652763fcf3c386233c945": "a48bdc10a063f0fb7902b6367011f83b"
+   },
+   "title": "Atletico Madrid vs Viking - PARAMOUNT+ - AQ"
+  },
   "1788f26710f9fd79": {
    "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vm6obaulus/out/v1/6653f58dc54d4b2ca30baade63aacc60/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -137,5 +193,5 @@
    "title": "Sabah vs FC Barcelona - TNT BRASIL - AQ"
   }
  },
- "updated": "2026-11-25T18:10:40+00:00"
+ "updated": "2026-11-25T19:58:40+00:00"
 }
