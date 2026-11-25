@@ -6,6 +6,18 @@
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=94ad40f95852450c",
    "h2": ""
   },
+  "54512b6d": {
+   "t": "Sabah vs FC Barcelona",
+   "l": "English",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8",
+   "h2": ""
+  },
+  "95debe3e": {
+   "t": "Sabah vs FC Barcelona",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/33982309.m3u8",
+   "h2": ""
+  },
   "579f5657": {
    "t": "Malappuram FC vs Kannur Warriors",
    "l": "English",
@@ -29,5 +41,5 @@
    "title": "Sporting CP vs Manchester United - TNT SPORTS - AQ"
   }
  },
- "updated": "2026-11-25T16:32:35+00:00"
+ "updated": "2026-11-25T17:27:08+00:00"
 }
