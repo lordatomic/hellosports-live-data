@@ -60,6 +60,12 @@
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=679d710f2ed905f1",
    "h2": ""
   },
+  "2c86fcd20a863286": {
+   "t": "Atletico Madrid vs Viking",
+   "l": "VIX SPANISH - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=2c86fcd20a863286",
+   "h2": ""
+  },
   "4e3419cb": {
    "t": "Club Brugge vs Liverpool",
    "l": "Arabic",
@@ -234,6 +240,14 @@
    },
    "title": "Atletico Madrid vs Viking - DAZN DE - AQ"
   },
+  "2c86fcd20a863286": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1rbtsptukz/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "c39deef0515b23c37241b464f71122f4": "b89fa132cf2c17e457e7474b26405d59"
+   },
+   "title": "Atletico Madrid vs Viking - VIX SPANISH - AQ"
+  },
   "1788f26710f9fd79": {
    "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vm6obaulus/out/v1/6653f58dc54d4b2ca30baade63aacc60/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -283,5 +297,5 @@
    "title": "Sabah vs FC Barcelona - TNT BRASIL - AQ"
   }
  },
- "updated": "2026-11-25T20:13:30+00:00"
+ "updated": "2026-11-25T20:18:40+00:00"
 }
