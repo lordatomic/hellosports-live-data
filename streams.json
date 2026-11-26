@@ -1,35 +1,5 @@
 {
  "streams": {
-  "94ad40f95852450c": {
-   "t": "Sporting CP vs Manchester United",
-   "l": "TNT SPORTS - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=94ad40f95852450c",
-   "h2": ""
-  },
-  "7479d93c3f572ed0": {
-   "t": "Sporting CP vs Manchester United",
-   "l": "PARAMOUNT+ - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=7479d93c3f572ed0",
-   "h2": ""
-  },
-  "fd5ca2f5fa70f08d": {
-   "t": "Sporting CP vs Manchester United",
-   "l": "DAZN DE - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=fd5ca2f5fa70f08d",
-   "h2": ""
-  },
-  "16beaa7154409dfb": {
-   "t": "Sporting CP vs Manchester United",
-   "l": "FOX SPORTS - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=16beaa7154409dfb",
-   "h2": ""
-  },
-  "38b528ae0f085671": {
-   "t": "Sporting CP vs Manchester United",
-   "l": "DAZN SPORTS - AQ",
-   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=38b528ae0f085671",
-   "h2": ""
-  },
   "7685388cb801821e": {
    "t": "Atletico Madrid vs Viking",
    "l": "PARAMOUNT+ - AQ",
@@ -104,46 +74,6 @@
   }
  },
  "players": {
-  "94ad40f95852450c": {
-   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "69a5aa835a061ce64a630d1046727e40": "d02feac8a999bd06bf4059bf33411749"
-   },
-   "title": "Sporting CP vs Manchester United - TNT SPORTS - AQ"
-  },
-  "7479d93c3f572ed0": {
-   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dyphmrggok/out/v1/bccc02717c1243f3bf640c3a873d2a39/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "22d870b4fe3b99e70f7862db29f51861": "0848c89bd5e80b385fe60fe3b92a49ce"
-   },
-   "title": "Sporting CP vs Manchester United - PARAMOUNT+ - AQ"
-  },
-  "fd5ca2f5fa70f08d": {
-   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzlpejwcoa/out/v1/54d8dad65f6445c5924e0a62ebdf07ce/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "8935a50ac72a858fbce8ba9a618711e1": "72f92171d06fff3ef718408ff9eac969"
-   },
-   "title": "Sporting CP vs Manchester United - DAZN DE - AQ"
-  },
-  "16beaa7154409dfb": {
-   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "09453ce820d65fbc675de3185f9e454c": "98cff9600995fa381c76fdacf3c7edae"
-   },
-   "title": "Sporting CP vs Manchester United - FOX SPORTS - AQ"
-  },
-  "38b528ae0f085671": {
-   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hcffsl5lmw/out/v1/ab7b596f96d746e9b1b97a515354a565/cenc.mpd",
-   "mimeType": "application/dash+xml",
-   "clearKeys": {
-    "697b4221eb7e42f97cfff975bac3f97d": "71a48f3f98eea7e2ebf586c75f88c6b6"
-   },
-   "title": "Sporting CP vs Manchester United - DAZN SPORTS - AQ"
-  },
   "7685388cb801821e": {
    "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9lp9nk4w8u/out/v1/e6e42a79382f4401b90da0db90efa1e7/cenc.mpd",
    "mimeType": "application/dash+xml",
@@ -177,5 +107,5 @@
    "title": "Atletico Madrid vs Viking - VIX SPANISH - AQ"
   }
  },
- "updated": "2026-11-26T01:15:48+00:00"
+ "updated": "2026-11-26T03:30:47+00:00"
 }
