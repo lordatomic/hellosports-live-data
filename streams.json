@@ -5,6 +5,12 @@
    "l": "SKY SPORT PL - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=c0cd26d4e663fedf",
    "h2": ""
+  },
+  "c69f7f5fd29d5dc7": {
+   "t": "Nottingham Forest vs Chelsea",
+   "l": "FUBO SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=c69f7f5fd29d5dc7",
+   "h2": ""
   }
  },
  "players": {
@@ -15,7 +21,15 @@
     "1106fb025da5b31657618344099c6c14": "788284538616a73b56214e90196a6e0f"
    },
    "title": "Nottingham Forest vs Chelsea - SKY SPORT PL - AQ"
+  },
+  "c69f7f5fd29d5dc7": {
+   "manifest": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "42f72c025dd53039244adc13b7e31dad": "a7bd941a19f6dd14f3004a623a6ad3a1"
+   },
+   "title": "Nottingham Forest vs Chelsea - FUBO SPORTS - AQ"
   }
  },
- "updated": "2026-11-27T19:12:41+00:00"
+ "updated": "2026-11-27T19:18:40+00:00"
 }
