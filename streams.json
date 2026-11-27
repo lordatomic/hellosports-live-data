@@ -12,6 +12,12 @@
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=c69f7f5fd29d5dc7",
    "h2": ""
   },
+  "5645822274b2aa41": {
+   "t": "Nottingham Forest vs Chelsea",
+   "l": "FUBO SPORTS HD",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=5645822274b2aa41",
+   "h2": ""
+  },
   "e145027c279eb7f0": {
    "t": "Columbus Crew vs Inter Miami",
    "l": "TSN SPORTS - AQ",
@@ -29,12 +35,20 @@
    "title": "Nottingham Forest vs Chelsea - SKY SPORT PL - AQ"
   },
   "c69f7f5fd29d5dc7": {
+   "manifest": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cj9ylmqsf0/out/v1/0ee8b60f8f9f4da2a4ef153a1c5df21b/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "65f9ed4580a4af3c117a339c44cdfe3b": "3e7d40c4b2ca331fe48bd65acae439d7"
+   },
+   "title": "Nottingham Forest vs Chelsea - FUBO SPORTS - AQ"
+  },
+  "5645822274b2aa41": {
    "manifest": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
    "mimeType": "application/dash+xml",
    "clearKeys": {
     "42f72c025dd53039244adc13b7e31dad": "a7bd941a19f6dd14f3004a623a6ad3a1"
    },
-   "title": "Nottingham Forest vs Chelsea - FUBO SPORTS - AQ"
+   "title": "Nottingham Forest vs Chelsea - FUBO SPORTS HD"
   },
   "e145027c279eb7f0": {
    "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
@@ -45,5 +59,5 @@
    "title": "Columbus Crew vs Inter Miami - TSN SPORTS - AQ"
   }
  },
- "updated": "2026-11-27T19:54:41+00:00"
+ "updated": "2026-11-27T20:04:40+00:00"
 }
