@@ -35,6 +35,12 @@
    "l": "FOX DEPORTES - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=7ba9135d10c977ac",
    "h2": ""
+  },
+  "e0de3d57": {
+   "t": "Columbus Crew vs Inter Miami",
+   "l": "Spanish",
+   "h1": "https://lordatomic.github.io/uefa/plyr?x=https://live05.wecile.app/live/02456966.m3u8",
+   "h2": ""
   }
  },
  "players": {
@@ -87,5 +93,5 @@
    "title": "Columbus Crew vs Inter Miami - FOX DEPORTES - AQ"
   }
  },
- "updated": "2026-11-27T20:08:40+00:00"
+ "updated": "2026-11-27T21:40:07+00:00"
 }
