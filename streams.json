@@ -11,6 +11,12 @@
    "l": "FUBO SPORTS - AQ",
    "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=c69f7f5fd29d5dc7",
    "h2": ""
+  },
+  "e145027c279eb7f0": {
+   "t": "Columbus Crew vs Inter Miami",
+   "l": "TSN SPORTS - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=e145027c279eb7f0",
+   "h2": ""
   }
  },
  "players": {
@@ -29,7 +35,15 @@
     "42f72c025dd53039244adc13b7e31dad": "a7bd941a19f6dd14f3004a623a6ad3a1"
    },
    "title": "Nottingham Forest vs Chelsea - FUBO SPORTS - AQ"
+  },
+  "e145027c279eb7f0": {
+   "manifest": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
+   },
+   "title": "Columbus Crew vs Inter Miami - TSN SPORTS - AQ"
   }
  },
- "updated": "2026-11-27T19:18:40+00:00"
+ "updated": "2026-11-27T19:54:41+00:00"
 }
