@@ -1,5 +1,21 @@
 {
- "streams": {},
- "players": {},
- "updated": "2026-11-26T03:33:09+00:00"
+ "streams": {
+  "c0cd26d4e663fedf": {
+   "t": "Nottingham Forest vs Chelsea",
+   "l": "SKY SPORT PL - AQ",
+   "h1": "https://lordatomic.github.io/hellosports-live-data/shaka-player.html?id=c0cd26d4e663fedf",
+   "h2": ""
+  }
+ },
+ "players": {
+  "c0cd26d4e663fedf": {
+   "manifest": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
+   "mimeType": "application/dash+xml",
+   "clearKeys": {
+    "1106fb025da5b31657618344099c6c14": "788284538616a73b56214e90196a6e0f"
+   },
+   "title": "Nottingham Forest vs Chelsea - SKY SPORT PL - AQ"
+  }
+ },
+ "updated": "2026-11-27T19:12:41+00:00"
 }
